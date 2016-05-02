@@ -1,0 +1,11 @@
+{
+  "public": {
+  },
+  "private": {
+    "emailUrl": "smtp://user:pass@0.0.0.0:587",
+    "heideltimeDockerIP":   "0.0.0.0",
+    "heideltimeDockerPort": "8888",
+    "cliffDockerIP":        "0.0.0.0",
+    "cliffDockerPort":      "8999"
+  }
+}

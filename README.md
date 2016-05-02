@@ -23,7 +23,8 @@ A hierarchical structure of a document collection is stored in these collections
 
 #### Corpus data structure
 
-```{
+```
+{
   "_id": "abc123",
   "owner": "jSYAssShXrfBQQ3Rm",
   "title": "A collection",
